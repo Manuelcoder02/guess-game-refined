@@ -62,7 +62,7 @@ document.querySelector('.again').addEventListener('click', function(){
   document.querySelector('.number').textContent = '?';
   document.querySelector('.score').textContent = score;
   document.querySelector('.guess').value = '';
-  document.querySelector('body').style.background = 'linear-gradient(to top left, #d21312, #f15a59);'
+  document.querySelector('body').style.background = 'linear-gradient(to top left, #d21312, #f15a59)';
  
   
 })
